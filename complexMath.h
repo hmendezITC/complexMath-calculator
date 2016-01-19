@@ -9,6 +9,8 @@ struct ComplexNumber{
 	float img;			//Imaginary part
 };
 
+
+
 //Adds two complex numbers of type ComplexNumber
 //Returns a ComplexNumber pointer
 
